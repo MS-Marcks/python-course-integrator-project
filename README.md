@@ -16,4 +16,4 @@ py [name_file.py]
 python3 [name_file.py]
 ```
 # NOTE:
-Version No.4 is a modified version that uses a table as a graphical interface instead of the terminal
+Version No.4 is a modified version that uses a table as a table interface instead of the terminal
